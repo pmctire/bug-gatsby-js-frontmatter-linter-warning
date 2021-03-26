@@ -1,0 +1,20 @@
+{
+  "name": "gatsby-js-frontmatter-lint-warning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Boris Bera <bbera@pmctire.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^3.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "gatsby-source-filesystem": "^3.1.0",
+    "gatsby-transformer-javascript-frontmatter": "^3.1.0"
+  }
+}
